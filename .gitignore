@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# Source code is intentionally NOT published in this repository
+*.cs
+*.csproj
+*.sln
+app.manifest
+appsettings.json
+win365icon.png
+
+# Logs
+*.log
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Publish output
+publish/
+*.publishsettings
